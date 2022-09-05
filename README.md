@@ -10,8 +10,7 @@ turn_head
 phone  
 play_phone  
 book  
-look_book
-sleep
+look_book  
 sleep  
 upright  
 bend
