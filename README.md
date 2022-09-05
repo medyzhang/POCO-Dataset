@@ -11,6 +11,7 @@ phone
 play_phone  
 book  
 look_book
+sleep
 sleep  
 upright  
 bend
