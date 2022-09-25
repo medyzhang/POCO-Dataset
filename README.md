@@ -1,8 +1,10 @@
-We collect students' real classroom behaviors in different environments, classrooms, disciplines, numbers and shooting angles, so that the degree of occlusion between students is different. This data set can be used for the detection, recognition and analysis of students' classroom behaviors.
+We have collected real student poses in the classroom under different environments, classrooms, subjects, numbers of people and camera angles to construct the POPO dataset, which contains very complex teaching and learning scenarios that allow for the detection and identification of students and their poses. POPO can provide powerful support for the study of students' states in the classroom.
+# 
 # Data Division
 training set:      1146 images     83566 labels  
 test set:          378 images      26909 labels  
 validation set:    379 images      27485 labels
+# 
 # 10 categories
 raise_head  
 bow_head  
