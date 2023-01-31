@@ -2,7 +2,7 @@ We have collected real student poses in the classroom under different environmen
 # 
 # Data Division
 training set:      1146 images     83566 labels  
-test set:          378 images      26909 labels  
+testing set:          378 images      26909 labels  
 validation set:    379 images      27485 labels
 # 
 # 10 categories
