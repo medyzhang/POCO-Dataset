@@ -1,4 +1,4 @@
-We have collected real student poses in the classroom under different environments, classrooms, subjects, numbers of people and camera angles to construct the POPO dataset, which contains very complex teaching and learning scenarios and can provide powerful support for the study of students' states in the classroom.
+We have collected real student poses in the classroom under different environments, classrooms, subjects, numbers of people and camera angles to construct the POCO dataset, which contains very complex teaching and learning scenarios and can provide powerful support for the study of students' states in the classroom.
 # 
 # Data Division
 training set:      1146 images     83566 labels  
